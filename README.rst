@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
+AIDAmri documentary
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+This repository will include the AIDAmri documentary for installation and usage. Until completition, please check out the `AIDAmri repository <https://github.com/Aswendt-Lab/AIDAmri>`_ and the `manual <https://github.com/Aswendt-Lab/AIDAmri/blob/master/manual.pdf>`_, respectively.
